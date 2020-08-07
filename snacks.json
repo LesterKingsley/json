@@ -1,0 +1,97 @@
+[
+  {
+    "picture": "sample.png",
+    "product": "Snickers Chocolate Bar",
+    "price": 50
+  },
+  {
+    "picture": "sample2.png",
+    "product": "Doritos Nacho Cheese",
+    "price": 120
+  },
+  {
+    "picture": "sample3.png",
+    "product": "Pringles",
+    "price": 150
+  },
+  {
+    "picture": "sample4.png",
+    "product": "Starbucks Bottled Frap",
+    "price": 300
+  },
+  {
+    "picture": "sample5.webp",
+    "product": "Piatos",
+    "price": 30
+  },
+  {
+    "picture": "sample6.webp",
+    "product": "Chips Delight",
+    "price": 70
+  },
+  {
+    "picture": "sample8.png",
+    "product": "Delight 400ml",
+    "price": 70
+  },
+  {
+    "picture": "sample9.png",
+    "product": "Kopiko 78",
+    "price": 30
+  },
+  {
+    "picture": "samples (1).png",
+    "product": "Mountain Dew",
+    "price": 30
+  },
+  {
+    "picture": "samples (2).png",
+    "product": "Coke Classic",
+    "price": 30
+  },
+  {
+    "picture": "samples (3).png",
+    "product": "Red Ribbon Pasalubong Pack",
+    "price": 250
+  },
+  {
+    "picture": "samples (4).png",
+    "product": "KitKat",
+    "price": 35
+  },
+  {
+    "picture": "samples (5).png",
+    "product": "Oishi Fish Crackers",
+    "price": 20
+  },
+  {
+    "picture": "samples (6).png",
+    "product": "Mentos Mint",
+    "price": 20
+  },
+  {
+    "picture": "samples (7).png",
+    "product": "Stik-O",
+    "price": 40
+  },
+  {
+    "picture": "samples (8).png",
+    "product": "Krispy kreme",
+    "price": 150
+  },
+  {
+    "picture": "samples (9).png",
+    "product": "Kisses 5pcs",
+    "price": 25
+  },
+  {
+    "picture": "samples (11).png",
+    "product": "MnM peanut",
+    "price": 50
+  },
+  {
+    "picture": "samples (12).png",
+    "product": "Oreo mini pack",
+    "price": 20
+  }
+]
